@@ -10,3 +10,4 @@ geopandas
 seaborn
 requests
 xmltodict
+fiona>=1.10b2 # not directly required, pinned by Snyk to avoid a vulnerability
